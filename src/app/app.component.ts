@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'tremenda02';
+  show:boolean=false;
+  show2:boolean=false;
 }
